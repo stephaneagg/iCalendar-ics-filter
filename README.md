@@ -27,14 +27,15 @@ January 18, 2021 (Mon)
  2:30 PM to  4:00 PM: CSC 115 {{ECS 123}}
  
  4:30 PM to  6:30 PM: CSC 115 lab {{ECS 248}}
- 
 
 January 19, 2021 (Tue)
 ----------------------
 10:30 AM to 11:30 AM: ECON 104 {{DSB C112}}
+
 11:30 AM to 12:30 PM: ASTR 101 {{ELL 067}}
 
 January 20, 2021 (Wed)
 ----------------------
 10:30 AM to 11:30 AM: ECON 104 {{DSB C112}}
+
 11:30 AM to 12:30 PM: ASTR 101 {{ELL 067}}
