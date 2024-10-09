@@ -368,7 +368,6 @@ int main(int argc, char *argv[])
                 printf("-");
             }
             printf("\n");
-            tracker = 1;
             first = 0;
         }else {
             char prev_date[8];
